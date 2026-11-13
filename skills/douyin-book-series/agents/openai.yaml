@@ -1,0 +1,4 @@
+interface:
+  display_name: "电子书转抖音解说合集"
+  short_description: "上传一本电子书，默认覆盖全书，交付全套可配音、可剪辑的视频脚本"
+  default_prompt: "使用 $douyin-book-series，把我上传的电子书按全书改编为视频脚本合集，覆盖主要内容及结局或结论，交付每一集的完整配音稿和剪辑分镜。"
